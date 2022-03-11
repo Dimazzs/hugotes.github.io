@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My Name Dimas'
+theme = "hello-friend-ng"
+draft = true
